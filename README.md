@@ -61,6 +61,13 @@ HiddenSkill helps students:
 * Enhanced UI/UX
 
 ---
+## 🎬 Watch HiddenSkill in Action
+
+See how HiddenSkill helps users discover and showcase their hidden talents through an interactive experience.
+
+[![🎥 HiddenSkill Demo](https://img.youtube.com/vi/8iCTY2TuGQg/maxresdefault.jpg)](https://youtu.be/8iCTY2TuGQg)
+
+---
 
 ## 📌 Author
 
